@@ -1,0 +1,44 @@
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.exe.config
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.exe
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.pdb
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Form1.resources
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Properties.Resources.resources
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csproj.GenerateResource.Cache
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csproj.CoreCompileInputs.cache
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.exe
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.pdb
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csprojResolveAssemblyReference.cache
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.exe.config
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.exe
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.pdb
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Form1.resources
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Properties.Resources.resources
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csproj.GenerateResource.Cache
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csproj.CoreCompileInputs.cache
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.exe
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.pdb
+D:\BIT\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Menu.resources
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Menu.resources
+H:\Year1Sem2\Programming2\ganie1\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csprojResolveAssemblyReference.cache
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.exe.config
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.exe
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.pdb
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csprojAssemblyReference.cache
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Form1.resources
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Menu.resources
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Properties.Resources.resources
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csproj.GenerateResource.cache
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csproj.CoreCompileInputs.cache
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.exe
+M:\ICT Staff\Staff Data\JoyG\IN511 Programming2\Pacman\2018 Pacman\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.pdb
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.exe.config
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.exe
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\bin\Debug\Pacman-IrvingGan.pdb
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Form1.resources
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Menu.resources
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman_IrvingGan.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.exe
+C:\Users\ASUS\Desktop\ganie1-master\Assignment 2\Pacman-IrvingGan\Pacman-IrvingGan\obj\Debug\Pacman-IrvingGan.pdb
